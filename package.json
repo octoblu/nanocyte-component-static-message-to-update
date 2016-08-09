@@ -2,7 +2,11 @@
   "name": "nanocyte-component-static-message-to-update",
   "version": "1.0.0",
   "description": "Nanocyte component static-message-to-update",
-  "keywords": ["nanocyte", "octoblu", "meshblu"],
+  "keywords": [
+    "nanocyte",
+    "octoblu",
+    "meshblu"
+  ],
   "homepage": "https://github.com/octoblu/nanocyte-component-static-message-to-update",
   "bugs": "https://github.com/octoblu/nanocyte-component-static-message-to-update/issues",
   "author": {
@@ -32,8 +36,7 @@
     "sinon": "^1.16.1",
     "sinon-chai": "^2.8.0"
   },
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "engines": {
     "node": ">=0.10.0",
     "npm": ">=2.0.0"
